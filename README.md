@@ -1,6 +1,10 @@
 turkish-deasciifier.vim
 =======================
 
+
+[Demo](https://user-images.githubusercontent.com/9094218/135849933-e0f7853f-fdf6-41f4-b3a0-eceaa6bc28d0.mp4)
+
+
 This plugin is a fork of [joom/turkish-deasciifier.vim](https://github.com/joom/turkish-deasciifier.vim) that introduces `opfunc` variants of the functions.
 The original plugin pipes visual selection into a Turkish deasciifier.
 This fork lets you use `operator {motion}`, just like any other operator of vim (c, y etc.)
