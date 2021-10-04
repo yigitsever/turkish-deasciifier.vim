@@ -22,9 +22,9 @@ xnoremap <expr> <Leader>tr TurkishDeasciify()
 nnoremap <expr> <Leader>trtr TurkishDeasciify() .. '_'
 
 " ascii everything
-nnoremap <expr> <Leader>tr TurkishAsciify()
-xnoremap <expr> <Leader>tr TurkishAsciify()
-nnoremap <expr> <Leader>trtr TurkishAsciify() .. '_'
+nnoremap <expr> <Leader>rt TurkishAsciify()
+xnoremap <expr> <Leader>rt TurkishAsciify()
+nnoremap <expr> <Leader>rtrt TurkishAsciify() .. '_'
 ```
 
 ## Requirements
